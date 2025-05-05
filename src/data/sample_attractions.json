@@ -1,0 +1,352 @@
+{
+    "cities": [
+      {
+        "name": "Paris",
+        "country": "France",
+        "importance": 5,
+        "attractions": [
+          {
+            "name": "Louvre Museum",
+            "description": "The world's largest art museum and a historic monument housing nearly 38,000 objects from prehistory to the 21st century.",
+            "categories": ["art", "museum", "cultural", "indoor"],
+            "duration_hours": 4,
+            "cost": "€€",
+            "location": {"lat": 48.8606, "lng": 2.3376},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Eiffel Tower",
+            "description": "A wrought-iron lattice tower named after engineer Gustave Eiffel, a global cultural icon of France.",
+            "categories": ["landmark", "cultural", "outdoor"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 48.8584, "lng": 2.2945},
+            "popularity": 5,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Musée d'Orsay",
+            "description": "A museum housed in the former Gare d'Orsay railway station, known for its collection of impressionist art.",
+            "categories": ["art", "museum", "cultural", "indoor"],
+            "duration_hours": 3,
+            "cost": "€€",
+            "location": {"lat": 48.8600, "lng": 2.3266},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Notre-Dame Cathedral",
+            "description": "A medieval Catholic cathedral on the Île de la Cité known for its French Gothic architecture.",
+            "categories": ["cultural", "historic", "religious", "architecture"],
+            "duration_hours": 1.5,
+            "cost": "€",
+            "location": {"lat": 48.8530, "lng": 2.3499},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Luxembourg Gardens",
+            "description": "A 25-hectare park known for its lawns, tree-lined promenades, flowerbeds, and the Medici Fountain.",
+            "categories": ["park", "outdoor", "nature", "relaxation"],
+            "duration_hours": 2,
+            "cost": "Free",
+            "location": {"lat": 48.8462, "lng": 2.3372},
+            "popularity": 3,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Le Marais",
+            "description": "A historic district with many preserved medieval buildings and trendy shops, galleries, and restaurants.",
+            "categories": ["cultural", "shopping", "food", "historic"],
+            "duration_hours": 3,
+            "cost": "€€",
+            "location": {"lat": 48.8559, "lng": 2.3606},
+            "popularity": 3,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Sainte-Chapelle",
+            "description": "A royal chapel within the medieval Palais de la Cité, known for its stunning stained glass windows.",
+            "categories": ["cultural", "historic", "religious", "architecture"],
+            "duration_hours": 1,
+            "cost": "€€",
+            "location": {"lat": 48.8554, "lng": 2.3451},
+            "popularity": 3,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Montmartre & Sacré-Cœur",
+            "description": "A large hill in Paris's 18th arrondissement known for its artistic history and the Sacré-Cœur Basilica.",
+            "categories": ["cultural", "historic", "religious", "art"],
+            "duration_hours": 3,
+            "cost": "€",
+            "location": {"lat": 48.8867, "lng": 2.3431},
+            "popularity": 4,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Le Comptoir du Relais",
+            "description": "A popular bistro serving classic French dishes in Saint-Germain-des-Prés.",
+            "categories": ["food", "restaurant", "culinary", "local"],
+            "duration_hours": 2,
+            "cost": "€€€",
+            "location": {"lat": 48.8536, "lng": 2.3378},
+            "popularity": 4,
+            "best_time": ["lunch", "dinner"]
+          }
+        ]
+      },
+      {
+        "name": "Barcelona",
+        "country": "Spain",
+        "importance": 4,
+        "attractions": [
+          {
+            "name": "Sagrada Família",
+            "description": "A large unfinished Roman Catholic basilica designed by Catalan architect Antoni Gaudí.",
+            "categories": ["architecture", "cultural", "religious", "historic"],
+            "duration_hours": 2.5,
+            "cost": "€€",
+            "location": {"lat": 41.4036, "lng": 2.1744},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Park Güell",
+            "description": "A public park system composed of gardens and architectural elements designed by Antoni Gaudí.",
+            "categories": ["park", "outdoor", "architecture", "art"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 41.4145, "lng": 2.1527},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Casa Batlló",
+            "description": "A building redesigned by Antoni Gaudí, known for its unique skeletal, visceral quality.",
+            "categories": ["architecture", "art", "cultural", "historic"],
+            "duration_hours": 1.5,
+            "cost": "€€€",
+            "location": {"lat": 41.3917, "lng": 2.1650},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "La Rambla",
+            "description": "A famous street in central Barcelona, popular with tourists and locals for its market stalls and street performers.",
+            "categories": ["cultural", "shopping", "outdoor", "local"],
+            "duration_hours": 2,
+            "cost": "Free",
+            "location": {"lat": 41.3797, "lng": 2.1751},
+            "popularity": 4,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Picasso Museum",
+            "description": "A museum dedicated to the work of Pablo Picasso, housing one of the most extensive collections of artworks by the painter.",
+            "categories": ["art", "museum", "cultural", "indoor"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 41.3851, "lng": 2.1807},
+            "popularity": 3,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Barceloneta Beach",
+            "description": "A sandy beach in the Barceloneta neighborhood, featuring seafood restaurants and beach activities.",
+            "categories": ["beach", "outdoor", "relaxation", "nature"],
+            "duration_hours": 3,
+            "cost": "Free",
+            "location": {"lat": 41.3792, "lng": 2.1944},
+            "popularity": 4,
+            "best_time": ["afternoon"]
+          },
+          {
+            "name": "Mercat de la Boqueria",
+            "description": "A large public market with a diverse selection of produce, food, and dining.",
+            "categories": ["food", "market", "culinary", "local"],
+            "duration_hours": 1.5,
+            "cost": "€",
+            "location": {"lat": 41.3812, "lng": 2.1716},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Tickets Bar",
+            "description": "A modern tapas bar offering innovative, molecular gastronomy-inspired dishes.",
+            "categories": ["food", "restaurant", "culinary", "upscale"],
+            "duration_hours": 2.5,
+            "cost": "€€€",
+            "location": {"lat": 41.3733, "lng": 2.1629},
+            "popularity": 5,
+            "best_time": ["dinner"]
+          }
+        ]
+      },
+      {
+        "name": "Rome",
+        "country": "Italy",
+        "importance": 5,
+        "attractions": [
+          {
+            "name": "Colosseum",
+            "description": "An oval amphitheatre in the centre of the city, the largest ancient amphitheatre ever built.",
+            "categories": ["historic", "cultural", "architecture", "outdoor"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 41.8902, "lng": 12.4922},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Vatican Museums",
+            "description": "Christian and art museums within the Vatican City, displaying works from the vast collection amassed by the Roman Catholic Church.",
+            "categories": ["art", "museum", "cultural", "religious"],
+            "duration_hours": 4,
+            "cost": "€€",
+            "location": {"lat": 41.9064, "lng": 12.4528},
+            "popularity": 5,
+            "best_time": ["morning"]
+          },
+          {
+            "name": "St. Peter's Basilica",
+            "description": "An Italian Renaissance church in Vatican City, the papal enclave within Rome.",
+            "categories": ["religious", "architecture", "cultural", "historic"],
+            "duration_hours": 2,
+            "cost": "Free",
+            "location": {"lat": 41.9022, "lng": 12.4533},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Trevi Fountain",
+            "description": "A famous fountain in Rome, known for the tradition of throwing coins over one's shoulder into the water.",
+            "categories": ["landmark", "cultural", "historic", "outdoor"],
+            "duration_hours": 0.5,
+            "cost": "Free",
+            "location": {"lat": 41.9009, "lng": 12.4833},
+            "popularity": 4,
+            "best_time": ["morning", "evening"]
+          },
+          {
+            "name": "Pantheon",
+            "description": "A former Roman temple, now a church, featuring the world's largest unreinforced concrete dome.",
+            "categories": ["historic", "architecture", "cultural", "religious"],
+            "duration_hours": 1,
+            "cost": "Free",
+            "location": {"lat": 41.8986, "lng": 12.4769},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Roman Forum",
+            "description": "A rectangular forum surrounded by the ruins of several important ancient government buildings at the center of Rome.",
+            "categories": ["historic", "cultural", "architecture", "outdoor"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 41.8924, "lng": 12.4853},
+            "popularity": 4,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Villa Borghese Gardens",
+            "description": "A large public park containing the Borghese Gallery and Museum, featuring one of the world's best collections of sculptures.",
+            "categories": ["park", "outdoor", "art", "museum"],
+            "duration_hours": 3,
+            "cost": "€",
+            "location": {"lat": 41.9138, "lng": 12.4921},
+            "popularity": 3,
+            "best_time": ["afternoon"]
+          },
+          {
+            "name": "Da Enzo al 29",
+            "description": "A small, family-run restaurant serving authentic Roman cuisine.",
+            "categories": ["food", "restaurant", "culinary", "local"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 41.8887, "lng": 12.4755},
+            "popularity": 4,
+            "best_time": ["lunch", "dinner"]
+          }
+        ]
+      },
+      {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "importance": 4,
+        "attractions": [
+          {
+            "name": "Rijksmuseum",
+            "description": "A Dutch national museum dedicated to arts and history, featuring works by Rembrandt and Vermeer.",
+            "categories": ["art", "museum", "cultural", "indoor"],
+            "duration_hours": 3,
+            "cost": "€€",
+            "location": {"lat": 52.3600, "lng": 4.8852},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Anne Frank House",
+            "description": "A biographical museum dedicated to Jewish wartime diarist Anne Frank.",
+            "categories": ["museum", "historic", "cultural", "indoor"],
+            "duration_hours": 1.5,
+            "cost": "€€",
+            "location": {"lat": 52.3752, "lng": 4.8840},
+            "popularity": 5,
+            "best_time": ["morning"]
+          },
+          {
+            "name": "Van Gogh Museum",
+            "description": "A museum dedicated to the works of Vincent van Gogh and his contemporaries.",
+            "categories": ["art", "museum", "cultural", "indoor"],
+            "duration_hours": 2.5,
+            "cost": "€€",
+            "location": {"lat": 52.3584, "lng": 4.8811},
+            "popularity": 5,
+            "best_time": ["morning", "afternoon"]
+          },
+          {
+            "name": "Vondelpark",
+            "description": "A public urban park of 47 hectares, featuring an open-air theatre, playgrounds, and several cafes.",
+            "categories": ["park", "outdoor", "nature", "relaxation"],
+            "duration_hours": 2,
+            "cost": "Free",
+            "location": {"lat": 52.3579, "lng": 4.8686},
+            "popularity": 4,
+            "best_time": ["afternoon"]
+          },
+          {
+            "name": "Canal Tour",
+            "description": "A boat tour through Amsterdam's historic canal ring area, designated as a UNESCO World Heritage site.",
+            "categories": ["cultural", "outdoor", "water", "tour"],
+            "duration_hours": 1.5,
+            "cost": "€€",
+            "location": {"lat": 52.3702, "lng": 4.8952},
+            "popularity": 4,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Jordaan",
+            "description": "A former working-class area transformed into a trendy neighborhood with art galleries, shops, and restaurants.",
+            "categories": ["cultural", "shopping", "food", "local"],
+            "duration_hours": 2.5,
+            "cost": "€€",
+            "location": {"lat": 52.3739, "lng": 4.8809},
+            "popularity": 3,
+            "best_time": ["afternoon", "evening"]
+          },
+          {
+            "name": "Foodhallen",
+            "description": "An indoor food market with various food stalls offering international cuisines.",
+            "categories": ["food", "market", "culinary", "local"],
+            "duration_hours": 2,
+            "cost": "€€",
+            "location": {"lat": 52.3673, "lng": 4.8678},
+            "popularity": 4,
+            "best_time": ["lunch", "dinner"]
+          }
+        ]
+      }
+    ]
+  }

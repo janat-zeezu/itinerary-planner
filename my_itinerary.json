@@ -1,0 +1,673 @@
+{
+  "itinerary_summary": {
+    "total_days": 8,
+    "cities_visited": [
+      "Amsterdam",
+      "Rome",
+      "Paris",
+      "Barcelona"
+    ],
+    "countries_visited": [
+      "Italy",
+      "Spain",
+      "Netherlands",
+      "France"
+    ],
+    "total_attractions": 32,
+    "preferences": [
+      "art",
+      "history",
+      "food"
+    ],
+    "pace": "moderate",
+    "generated_date": "2025-05-05"
+  },
+  "daily_plans": [
+    {
+      "day_number": 1,
+      "date": null,
+      "is_transition_day": false,
+      "city": "Paris",
+      "country": "France",
+      "attractions": [
+        {
+          "name": "Louvre Museum",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 4,
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "cost": "€€",
+          "description": "The world's largest art museum and a historic monument housing nearly 38,000 objects from prehistory to the 21st century."
+        },
+        {
+          "name": "Sainte-Chapelle",
+          "category": [
+            "cultural",
+            "historic",
+            "religious",
+            "architecture"
+          ],
+          "duration_hours": 1,
+          "start_time": "13:30",
+          "end_time": "14:30",
+          "cost": "€€",
+          "description": "A royal chapel within the medieval Palais de la Cité, known for its stunning stained glass windows."
+        },
+        {
+          "name": "Notre-Dame Cathedral",
+          "category": [
+            "cultural",
+            "historic",
+            "religious",
+            "architecture"
+          ],
+          "duration_hours": 1.5,
+          "start_time": "15:00",
+          "end_time": "16:30",
+          "cost": "€",
+          "description": "A medieval Catholic cathedral on the Île de la Cité known for its French Gothic architecture."
+        },
+        {
+          "name": "Luxembourg Gardens",
+          "category": [
+            "park",
+            "outdoor",
+            "nature",
+            "relaxation"
+          ],
+          "duration_hours": 2,
+          "start_time": "17:00",
+          "end_time": "19:00",
+          "cost": "Free",
+          "description": "A 25-hectare park known for its lawns, tree-lined promenades, flowerbeds, and the Medici Fountain."
+        },
+        {
+          "name": "Musée d'Orsay",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 3,
+          "start_time": "19:30",
+          "end_time": "22:30",
+          "cost": "€€",
+          "description": "A museum housed in the former Gare d'Orsay railway station, known for its collection of impressionist art."
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "time": "08:00",
+          "suggestion": "Local breakfast in Paris"
+        },
+        "lunch": {
+          "time": "13:00",
+          "suggestion": "Lunch near attractions in Paris"
+        },
+        "dinner": {
+          "time": "19:00",
+          "suggestion": "Traditional France cuisine for dinner"
+        }
+      },
+      "city_tips": [
+        "Paris Metro tickets can be purchased in books of 10 ('carnet') for a discount.",
+        "Many museums are free on the first Sunday of each month.",
+        "The Paris Museum Pass gives access to over 50 museums and monuments.",
+        "Locals often picnic along the Seine River in the evening."
+      ]
+    },
+    {
+      "day_number": 2,
+      "date": null,
+      "is_transition_day": false,
+      "city": "Paris",
+      "country": "France",
+      "attractions": [
+        {
+          "name": "Montmartre & Sacré-Cœur",
+          "category": [
+            "cultural",
+            "historic",
+            "religious",
+            "art"
+          ],
+          "duration_hours": 3,
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "cost": "€",
+          "description": "A large hill in Paris's 18th arrondissement known for its artistic history and the Sacré-Cœur Basilica."
+        },
+        {
+          "name": "Le Marais",
+          "category": [
+            "cultural",
+            "shopping",
+            "food",
+            "historic"
+          ],
+          "duration_hours": 3,
+          "start_time": "12:30",
+          "end_time": "15:30",
+          "cost": "€€",
+          "description": "A historic district with many preserved medieval buildings and trendy shops, galleries, and restaurants."
+        },
+        {
+          "name": "Le Comptoir du Relais",
+          "category": [
+            "food",
+            "restaurant",
+            "culinary",
+            "local"
+          ],
+          "duration_hours": 2,
+          "start_time": "16:00",
+          "end_time": "18:00",
+          "cost": "€€€",
+          "description": "A popular bistro serving classic French dishes in Saint-Germain-des-Prés."
+        },
+        {
+          "name": "Eiffel Tower",
+          "category": [
+            "landmark",
+            "cultural",
+            "outdoor"
+          ],
+          "duration_hours": 2,
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "cost": "€€",
+          "description": "A wrought-iron lattice tower named after engineer Gustave Eiffel, a global cultural icon of France."
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "time": "08:00",
+          "suggestion": "Local breakfast in Paris"
+        },
+        "lunch": {
+          "time": "12:30",
+          "suggestion": "Enjoy Le Marais"
+        },
+        "dinner": {
+          "time": "19:00",
+          "suggestion": "Traditional France cuisine for dinner"
+        }
+      }
+    },
+    {
+      "day_number": 3,
+      "date": null,
+      "is_transition_day": true,
+      "from_city": "Paris",
+      "from_country": "France",
+      "to_city": "Barcelona",
+      "to_country": "Spain",
+      "travel_details": {
+        "mode": "flight",
+        "duration_hours": 3.0,
+        "distance_km": 830.9
+      },
+      "travel_tips": [
+        "Plan to check out of your accommodation in Paris early.",
+        "Arrive at the airport at least 2 hours before your flight.",
+        "Consider booking a direct flight to save time.",
+        "Upon arrival in Barcelona, head to your accommodation to drop off luggage."
+      ]
+    },
+    {
+      "day_number": 4,
+      "date": null,
+      "is_transition_day": false,
+      "city": "Barcelona",
+      "country": "Spain",
+      "attractions": [
+        {
+          "name": "Tickets Bar",
+          "category": [
+            "food",
+            "restaurant",
+            "culinary",
+            "upscale"
+          ],
+          "duration_hours": 2.5,
+          "start_time": "09:00",
+          "end_time": "11:30",
+          "cost": "€€€",
+          "description": "A modern tapas bar offering innovative, molecular gastronomy-inspired dishes."
+        },
+        {
+          "name": "Mercat de la Boqueria",
+          "category": [
+            "food",
+            "market",
+            "culinary",
+            "local"
+          ],
+          "duration_hours": 1.5,
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "cost": "€",
+          "description": "A large public market with a diverse selection of produce, food, and dining."
+        },
+        {
+          "name": "La Rambla",
+          "category": [
+            "cultural",
+            "shopping",
+            "outdoor",
+            "local"
+          ],
+          "duration_hours": 2,
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "cost": "Free",
+          "description": "A famous street in central Barcelona, popular with tourists and locals for its market stalls and street performers."
+        },
+        {
+          "name": "Picasso Museum",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 2,
+          "start_time": "16:30",
+          "end_time": "18:30",
+          "cost": "€€",
+          "description": "A museum dedicated to the work of Pablo Picasso, housing one of the most extensive collections of artworks by the painter."
+        },
+        {
+          "name": "Barceloneta Beach",
+          "category": [
+            "beach",
+            "outdoor",
+            "relaxation",
+            "nature"
+          ],
+          "duration_hours": 3,
+          "start_time": "19:00",
+          "end_time": "22:00",
+          "cost": "Free",
+          "description": "A sandy beach in the Barceloneta neighborhood, featuring seafood restaurants and beach activities."
+        },
+        {
+          "name": "Casa Batlló",
+          "category": [
+            "architecture",
+            "art",
+            "cultural",
+            "historic"
+          ],
+          "duration_hours": 1.5,
+          "start_time": "22:30",
+          "end_time": "24:00",
+          "cost": "€€€",
+          "description": "A building redesigned by Antoni Gaudí, known for its unique skeletal, visceral quality."
+        },
+        {
+          "name": "Sagrada Família",
+          "category": [
+            "architecture",
+            "cultural",
+            "religious",
+            "historic"
+          ],
+          "duration_hours": 2.5,
+          "start_time": "24:30",
+          "end_time": "27:00",
+          "cost": "€€",
+          "description": "A large unfinished Roman Catholic basilica designed by Catalan architect Antoni Gaudí."
+        },
+        {
+          "name": "Park Güell",
+          "category": [
+            "park",
+            "outdoor",
+            "architecture",
+            "art"
+          ],
+          "duration_hours": 2,
+          "start_time": "27:30",
+          "end_time": "29:30",
+          "cost": "€€",
+          "description": "A public park system composed of gardens and architectural elements designed by Antoni Gaudí."
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "time": "08:00",
+          "suggestion": "Local breakfast in Barcelona"
+        },
+        "lunch": {
+          "time": "12:00",
+          "suggestion": "Enjoy Mercat de la Boqueria"
+        },
+        "dinner": {
+          "time": "19:00",
+          "suggestion": "Traditional Spain cuisine for dinner"
+        }
+      },
+      "city_tips": [
+        "The Barcelona Card offers free public transportation and discounts to many attractions.",
+        "Be aware of pickpockets, especially on Las Ramblas and in crowded tourist areas.",
+        "Many shops close for a few hours in the afternoon for siesta.",
+        "Tapas bars are typically busiest after 9 PM."
+      ]
+    },
+    {
+      "day_number": 5,
+      "date": null,
+      "is_transition_day": true,
+      "from_city": "Barcelona",
+      "from_country": "Spain",
+      "to_city": "Amsterdam",
+      "to_country": "Netherlands",
+      "travel_details": {
+        "mode": "flight",
+        "duration_hours": 3.5,
+        "distance_km": 1238.5
+      },
+      "travel_tips": [
+        "Plan to check out of your accommodation in Barcelona early.",
+        "Arrive at the airport at least 2 hours before your flight.",
+        "Consider booking a direct flight to save time.",
+        "Upon arrival in Amsterdam, head to your accommodation to drop off luggage."
+      ]
+    },
+    {
+      "day_number": 6,
+      "date": null,
+      "is_transition_day": false,
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "attractions": [
+        {
+          "name": "Rijksmuseum",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 3,
+          "start_time": "09:00",
+          "end_time": "12:00",
+          "cost": "€€",
+          "description": "A Dutch national museum dedicated to arts and history, featuring works by Rembrandt and Vermeer."
+        },
+        {
+          "name": "Van Gogh Museum",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 2.5,
+          "start_time": "12:30",
+          "end_time": "15:00",
+          "cost": "€€",
+          "description": "A museum dedicated to the works of Vincent van Gogh and his contemporaries."
+        },
+        {
+          "name": "Vondelpark",
+          "category": [
+            "park",
+            "outdoor",
+            "nature",
+            "relaxation"
+          ],
+          "duration_hours": 2,
+          "start_time": "15:30",
+          "end_time": "17:30",
+          "cost": "Free",
+          "description": "A public urban park of 47 hectares, featuring an open-air theatre, playgrounds, and several cafes."
+        },
+        {
+          "name": "Foodhallen",
+          "category": [
+            "food",
+            "market",
+            "culinary",
+            "local"
+          ],
+          "duration_hours": 2,
+          "start_time": "18:00",
+          "end_time": "20:00",
+          "cost": "€€",
+          "description": "An indoor food market with various food stalls offering international cuisines."
+        },
+        {
+          "name": "Jordaan",
+          "category": [
+            "cultural",
+            "shopping",
+            "food",
+            "local"
+          ],
+          "duration_hours": 2.5,
+          "start_time": "20:30",
+          "end_time": "23:00",
+          "cost": "€€",
+          "description": "A former working-class area transformed into a trendy neighborhood with art galleries, shops, and restaurants."
+        },
+        {
+          "name": "Anne Frank House",
+          "category": [
+            "museum",
+            "historic",
+            "cultural",
+            "indoor"
+          ],
+          "duration_hours": 1.5,
+          "start_time": "23:30",
+          "end_time": "25:00",
+          "cost": "€€",
+          "description": "A biographical museum dedicated to Jewish wartime diarist Anne Frank."
+        },
+        {
+          "name": "Canal Tour",
+          "category": [
+            "cultural",
+            "outdoor",
+            "water",
+            "tour"
+          ],
+          "duration_hours": 1.5,
+          "start_time": "25:30",
+          "end_time": "27:00",
+          "cost": "€€",
+          "description": "A boat tour through Amsterdam's historic canal ring area, designated as a UNESCO World Heritage site."
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "time": "08:00",
+          "suggestion": "Local breakfast in Amsterdam"
+        },
+        "lunch": {
+          "time": "13:00",
+          "suggestion": "Lunch near attractions in Amsterdam"
+        },
+        "dinner": {
+          "time": "20:30",
+          "suggestion": "Enjoy Jordaan"
+        }
+      },
+      "city_tips": [
+        "The I Amsterdam City Card includes free public transport and entry to many museums.",
+        "Bike rental is the most popular way to get around the city.",
+        "Watch out for bike lanes - pedestrians should stay on the sidewalks.",
+        "Many museums and attractions require advance online booking."
+      ]
+    },
+    {
+      "day_number": 7,
+      "date": null,
+      "is_transition_day": true,
+      "from_city": "Amsterdam",
+      "from_country": "Netherlands",
+      "to_city": "Rome",
+      "to_country": "Italy",
+      "travel_details": {
+        "mode": "flight",
+        "duration_hours": 3.6,
+        "distance_km": 1296.0
+      },
+      "travel_tips": [
+        "Plan to check out of your accommodation in Amsterdam early.",
+        "Arrive at the airport at least 2 hours before your flight.",
+        "Consider booking a direct flight to save time.",
+        "Upon arrival in Rome, head to your accommodation to drop off luggage."
+      ]
+    },
+    {
+      "day_number": 8,
+      "date": null,
+      "is_transition_day": false,
+      "city": "Rome",
+      "country": "Italy",
+      "attractions": [
+        {
+          "name": "Vatican Museums",
+          "category": [
+            "art",
+            "museum",
+            "cultural",
+            "religious"
+          ],
+          "duration_hours": 4,
+          "start_time": "09:00",
+          "end_time": "13:00",
+          "cost": "€€",
+          "description": "Christian and art museums within the Vatican City, displaying works from the vast collection amassed by the Roman Catholic Church."
+        },
+        {
+          "name": "St. Peter's Basilica",
+          "category": [
+            "religious",
+            "architecture",
+            "cultural",
+            "historic"
+          ],
+          "duration_hours": 2,
+          "start_time": "13:30",
+          "end_time": "15:30",
+          "cost": "Free",
+          "description": "An Italian Renaissance church in Vatican City, the papal enclave within Rome."
+        },
+        {
+          "name": "Pantheon",
+          "category": [
+            "historic",
+            "architecture",
+            "cultural",
+            "religious"
+          ],
+          "duration_hours": 1,
+          "start_time": "16:00",
+          "end_time": "17:00",
+          "cost": "Free",
+          "description": "A former Roman temple, now a church, featuring the world's largest unreinforced concrete dome."
+        },
+        {
+          "name": "Trevi Fountain",
+          "category": [
+            "landmark",
+            "cultural",
+            "historic",
+            "outdoor"
+          ],
+          "duration_hours": 0.5,
+          "start_time": "17:30",
+          "end_time": "18:00",
+          "cost": "Free",
+          "description": "A famous fountain in Rome, known for the tradition of throwing coins over one's shoulder into the water."
+        },
+        {
+          "name": "Roman Forum",
+          "category": [
+            "historic",
+            "cultural",
+            "architecture",
+            "outdoor"
+          ],
+          "duration_hours": 2,
+          "start_time": "18:30",
+          "end_time": "20:30",
+          "cost": "€€",
+          "description": "A rectangular forum surrounded by the ruins of several important ancient government buildings at the center of Rome."
+        },
+        {
+          "name": "Colosseum",
+          "category": [
+            "historic",
+            "cultural",
+            "architecture",
+            "outdoor"
+          ],
+          "duration_hours": 2,
+          "start_time": "21:00",
+          "end_time": "23:00",
+          "cost": "€€",
+          "description": "An oval amphitheatre in the centre of the city, the largest ancient amphitheatre ever built."
+        },
+        {
+          "name": "Da Enzo al 29",
+          "category": [
+            "food",
+            "restaurant",
+            "culinary",
+            "local"
+          ],
+          "duration_hours": 2,
+          "start_time": "23:30",
+          "end_time": "25:30",
+          "cost": "€€",
+          "description": "A small, family-run restaurant serving authentic Roman cuisine."
+        },
+        {
+          "name": "Villa Borghese Gardens",
+          "category": [
+            "park",
+            "outdoor",
+            "art",
+            "museum"
+          ],
+          "duration_hours": 3,
+          "start_time": "26:00",
+          "end_time": "29:00",
+          "cost": "€",
+          "description": "A large public park containing the Borghese Gallery and Museum, featuring one of the world's best collections of sculptures."
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "time": "08:00",
+          "suggestion": "Local breakfast in Rome"
+        },
+        "lunch": {
+          "time": "13:00",
+          "suggestion": "Lunch near attractions in Rome"
+        },
+        "dinner": {
+          "time": "23:30",
+          "suggestion": "Enjoy Da Enzo al 29"
+        }
+      },
+      "city_tips": [
+        "Drinking from Rome's public fountains ('nasoni') is safe and the water is refreshing.",
+        "Many museums require reservations, especially the Vatican Museums.",
+        "Dress code for churches requires covered shoulders and knees.",
+        "Avoid driving in the historic center - use public transportation instead."
+      ]
+    }
+  ]
+}

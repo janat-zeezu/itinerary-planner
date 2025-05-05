@@ -1,0 +1,61 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+.env/
+.venv/
+pythonenv*/
+ECHO is off.
+# PyTorch specific files
+*.dll
+*.lib
+*.so
+*.dylib
+ECHO is off.
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+ECHO is off.
+# Jupyter Notebook
+.ipynb_checkpoints
+ECHO is off.
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+ECHO is off.
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+ECHO is off.
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ECHO is off.
+# Local development settings
+.DS_Store
+Thumbs.db
